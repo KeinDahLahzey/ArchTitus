@@ -1,3 +1,17 @@
+THIS IS MY OWN CUSTOM INSTALL USE IT IF YOU LIKE BUT IT IS MY OWN CHANGES AND I HAVE LITTLE IDEA WHAT IM ACTUALLY DOING SO DO SO AT YOUR OWN RISK
+
+Any how this is my list of changes-
+Packages
+-Added
+--Krita
+-Subtracted
+--Gimp
+
+
+
+
+
+
 # ArchTitus Installer Script
 
 <img src="https://i.imgur.com/YiNMnan.png" />
