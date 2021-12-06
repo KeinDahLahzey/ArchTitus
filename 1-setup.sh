@@ -180,6 +180,7 @@ PKGS=(
 'steam'
 'sudo'
 'swtpm'
+'spyder'
 'synergy'
 'systemsettings'
 'terminus-font'
