@@ -82,7 +82,7 @@ PKGS=(
 'breeze-gtk'
 'bridge-utils'
 'btrfs-progs'
-'celluloid' # video players
+#'celluloid' # video players
 'cmatrix'
 'code' # Visual Studio code
 'cronie'
@@ -189,6 +189,7 @@ PKGS=(
 'vim'
 'virt-manager'
 'virt-viewer'
+'vlc' #video player
 'wget'
 'which'
 'wine-gecko'
