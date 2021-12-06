@@ -103,7 +103,7 @@ PKGS=(
 'fuseiso'
 'gamemode'
 'gcc'
-'gimp' # Photo editing
+#'gimp' # Photo editing
 'git'
 'gparted' # partition management
 'gptfdisk'
@@ -123,6 +123,7 @@ PKGS=(
 'kdeplasma-addons'
 'kde-gtk-config'
 'kinfocenter'
+'krita' #Photo Editing
 'kscreen'
 'kvantum-qt5'
 'kitty'
