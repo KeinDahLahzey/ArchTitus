@@ -4,16 +4,18 @@ Any how this is my list of changes-
 
 Packages
 
--Added
+	Added
 
---Krita
---Vlc
+		Krita
+		Vlc
+		Discord
+		Firefox
 
--Subtracted
+	Subtracted
 
---Gimp
---Celluloid
-
+		Gimp
+		Celluloid
+		Brave
 
 
 
