@@ -2,9 +2,13 @@ THIS IS MY OWN CUSTOM INSTALL USE IT IF YOU LIKE BUT IT IS MY OWN CHANGES AND I 
 
 Any how this is my list of changes-
 Packages
+
 -Added
+
 --Krita
+
 -Subtracted
+
 --Gimp
 
 
