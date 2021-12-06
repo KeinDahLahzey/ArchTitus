@@ -10,6 +10,7 @@ Packages
 		Vlc
 		Discord
 		Firefox
+		Spyder
 
 	Subtracted
 
