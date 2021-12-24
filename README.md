@@ -1,6 +1,7 @@
 THIS IS MY OWN CUSTOM INSTALL USE IT IF YOU LIKE BUT IT IS MY OWN CHANGES AND I HAVE LITTLE IDEA WHAT IM ACTUALLY DOING SO DO SO AT YOUR OWN RISK
 
 Any how this is my list of changes-
+because of a few packages this should only be used to an AMD GPU install
 
 Packages
 
@@ -11,12 +12,15 @@ Packages
 		Discord
 		Firefox
 		Spyder
+		Lib32-vulkan-radeon
+		vulkan-radeon
 
 	Subtracted
 
 		Gimp
 		Celluloid
 		Brave
+		zoom
 
 
 
