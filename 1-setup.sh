@@ -135,6 +135,7 @@ PKGS=(
 'libdvdcss'
 'libnewt'
 'libtool'
+'lib32-vulkan-radeon'
 'linux'
 'linux-firmware'
 'linux-headers'
@@ -193,6 +194,7 @@ PKGS=(
 'virt-manager'
 'virt-viewer'
 'vlc' #video player
+'vulkan-radeon'
 'wget'
 'which'
 'wine-gecko'
